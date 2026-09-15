@@ -5,7 +5,7 @@ Excel dashboard analyzing marketing performance across channels, products, and r
 
 ---
 
-##  Overview
+##  Project Overview
 This project simulates a real‑world **marketing analytics case** using campaign data.  
 It includes **4 dashboard pages**:
 1. **Overview Page** – Overall marketing performance summary  
@@ -85,7 +85,7 @@ The goal is to identify **high‑performing segments** and optimize spend alloca
 
 ---
 
-## ✅ Result & Conclusion
+##  Result & Conclusion
 - **Result:** The dashboard provides a unified view of marketing performance across dimensions, helping identify top‑performing channels, products, and regions.
 -  
 - **Final Recommendations:**  
@@ -96,7 +96,7 @@ The goal is to identify **high‑performing segments** and optimize spend alloca
 
 ---
 
-## 🚀 Future Work
+##  Future Work
 - Extend analysis with Power BI/Tableau for interactive visuals.  
 - Integrate SQL backend for automated data refresh.  
 - Add predictive modeling for ROI and conversion forecasting.  
@@ -104,9 +104,9 @@ The goal is to identify **high‑performing segments** and optimize spend alloca
 
 ---
 
-## 👩‍💻 Author & Contact
+##  Author & Contact
 **Ankita Sharma**
 - Aspiring Business Analyst 
 - Email: ankita.analysis@outlook.com
 - [LinkedIn](http://www.linkedin.com/in/ankitaa-s)
-- [GitHub]()
+- [GitHub](https://github.com/AnkitaAnalysis)
