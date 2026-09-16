@@ -29,7 +29,7 @@ The goal is to identify **high‑performing segments** and optimize spend alloca
 
 ### Preview
 
-![data](maketing-dataset.png)
+![data](0_dataset/preview-data.png)
 
 
 ---
@@ -71,7 +71,7 @@ The goal is to identify **high‑performing segments** and optimize spend alloca
 
 ### Dashboard Overview (Performance Summary)
 
-![Dashboard Overview](executive's-overview-snap.png)
+![Dashboard Overview](2_images/overall-performance-overview.png)
 
 
 ---
