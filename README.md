@@ -22,7 +22,7 @@ Each page provides drill‑down insights on spend, revenue, ROI, conversion rate
 ##  Problem Statement
 Marketing teams need visibility into how different **channels, products, and regions** contribute to revenue, conversions, and ROI.
 
-The **goal** is to identify **high‑performing & low-performing segments** and optimize spend allocation for better efficiency and conversions.
+The **goal** is to identify **high‑performing segments** and optimize spend allocation for better efficiency and conversions.
 
 ---
 
@@ -66,12 +66,12 @@ The **goal** is to identify **high‑performing & low-performing segments** and 
 
 ##  Dashboard Features
 - **Overview Page:** Overall Spend, Revenue, ROI %, Conversion Rate %, CTR, CPC, and trend analysis.  
-- **Regional Performance Page:** Region wise Spend vs Revenue, ROI %, Conversions %, Efficiency (Revenue per $ spent).  
-- **Product Performance Page:** ROI %, Conversion %, Return per $ Spent across products.  
-- **Channel Performance Page:** CTR & CPC, ROI %, Conversion %, Spend vs Revenue comparison across channels.
+- **Regional Performance Page:** Region wise Efficiency (Revenue per $ spent, ROI% etc) & trend analysis.  
+- **Product Performance Page:** Pattern analysis across products.  
+- **Channel Performance Page:** Pattern analysis across channels.
 
 
-### Dashboard Overview (Overall Performance Summary)
+### Dashboard Overview (Overall Performance)
 
 ![Dashboard Overview](2_images/overall-performance-overview.png)
 
@@ -99,7 +99,7 @@ The **goal** is to identify **high‑performing & low-performing segments** and 
   - Allocate more budget to **Search Engine** and **Email** channels for higher ROI and conversions.  
   - Focus on **Product C** and **East Region** for efficiency gains.  
   - Monitor **CPC and CTR** trends to maintain cost‑effectiveness.  
-  - Address declining YOY ROI by optimizing underperforming regions and channels.
+  - Address declining **YOY ROI** by optimizing underperforming regions and channels.
 
 ---
 
