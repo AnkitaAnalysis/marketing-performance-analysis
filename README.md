@@ -20,13 +20,15 @@ Each page provides drill‑down insights on spend, revenue, ROI, conversion rate
 ---
 
 ##  Problem Statement
-Marketing teams need visibility into how different **channels, products, and regions** contribute to revenue, conversions, and ROI.  
+Marketing teams need visibility into how different **channels, products, and regions** contribute to revenue, conversions, and ROI.
+
 The **goal** is to identify **high‑performing & low-performing segments** and optimize spend allocation for better efficiency and conversions.
 
 ---
 
 ##  Dataset
-- **Fields:** Date, Region, Product, Channel, Quarter, Spend, Revenue, Impressions, Clicks, Conversions, CTR, CPC, ROI, Conversion Rate (Calculated Column) 
+- **Fields:** Date, Region, Product, Channel, Quarter, Spend, Revenue, Impressions, Clicks, Conversions, CTR, CPC, ROI, Conversion Rate (Calculated Column)
+  
 - **Source:** Simulated marketing campaign dataset (Excel), generated with the help of **Microsoft Copilot** 
 
 ### Preview
@@ -83,7 +85,7 @@ The **goal** is to identify **high‑performing & low-performing segments** and 
 
 ##  How to Use This Project
 1. Download the repository.  
-2. Open `Marketing_Performance_Analysis.xlsx` in Excel.  
+2. Open `1_dashboards/Marketing_Performance_Analysis.xlsx` in Excel.  
 3. Go to the Dashboard Worksheet. 
 4. Use slicers to filter by Region, Product, Channel, or Quarter.  
 5. Explore KPI cards and charts for insights.
