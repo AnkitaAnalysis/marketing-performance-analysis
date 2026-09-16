@@ -1,14 +1,16 @@
 
 # Marketing Performance Analysis Dashboard
 
-Excel dashboard analyzing marketing performance across channels, products, and regions to evaluate spend efficiency, ROI, and conversion impact.
+Excel dashboard analyzing marketing performance across channels, products, and regions to evaluate spend efficiency, ROI, and conversion impact for a fictional consumer goods company.
 
 ---
 
 ##  Project Overview
-This project simulates a real‑world **marketing analytics case** using campaign data.  
+This project visualizes marketing spend efficiency using campaign data.
+It uses marketing metrics for different stakeholders (& goals) to optimizing budget allocation.  
+
 It includes **4 dashboard pages**:
-1. **Overview Page** – Overall marketing performance summary  
+1. **Overview Page** – Overall performance summary - For CMO & Executive Team   
 2. **Regional Performance Analysis** – For Regional Marketing Managers  
 3. **Product Performance Analysis** – For Product Managers  
 4. **Channel Performance Analysis** – For Digital Marketing Team  
@@ -18,14 +20,14 @@ Each page provides drill‑down insights on spend, revenue, ROI, conversion rate
 ---
 
 ##  Problem Statement
-Marketing teams need visibility into how different **channels, products, and regions** contribute to revenue and ROI.  
-The goal is to identify **high‑performing segments** and optimize spend allocation for better efficiency and conversions.
+Marketing teams need visibility into how different **channels, products, and regions** contribute to revenue, conversions, and ROI.  
+The **goal** is to identify **high‑performing & low-performing segments** and optimize spend allocation for better efficiency and conversions.
 
 ---
 
 ##  Dataset
-- **Fields:** Date, Region, Product, Channel, Quarter, Spend, Revenue, Impressions, Clicks, Conversions, CTR, CPC, ROI, Conversion Rate  
-- **Source:** Simulated marketing campaign dataset (Excel)  
+- **Fields:** Date, Region, Product, Channel, Quarter, Spend, Revenue, Impressions, Clicks, Conversions, CTR, CPC, ROI, Conversion Rate (Calculated Column) 
+- **Source:** Simulated marketing campaign dataset (Excel), generated with the help of **Microsoft Copilot** 
 
 ### Preview
 
@@ -36,18 +38,16 @@ The goal is to identify **high‑performing segments** and optimize spend alloca
 
 ##  Tools & Skills
 - Microsoft Excel (Pivot Tables, Charts, KPI Cards, Slicers)  
-- Dashboard Design & Storytelling  
+- Dashboard Design & Visualization
 - KPI Identification & Dimensions Mapping
-- Data Visualization & Analysis Skills  
-
+- Data Storytelling 
 ---
 
 ##  Methods
-- Built **Pivot Tables** for Spend, Revenue, Conversions, ROI, CTR, CPC  
+- **Pivot Table** for summarization
 - Created **calculated fields** for ROI %, Conversion Rate %, Revenue per $ Spent  
 - Used **slicers** for filtering (Region, Product, Channel, Quarter)  
 - Designed **KPI cards** for Spend, Revenue, ROI, Conversion Rate, CTR, CPC  
-- Applied **charts**:
 - **Dashboard layout** for stakeholder review  
  
 ---
@@ -63,15 +63,20 @@ The goal is to identify **high‑performing segments** and optimize spend alloca
 ---
 
 ##  Dashboard Features
-- **Overview Page:** Spend, Revenue, ROI %, Conversion Rate %, CTR, CPC, and trend analysis.  
-- **Regional Performance Page:** Spend vs Revenue, ROI %, Conversions %, Efficiency ($ per $ spent).  
+- **Overview Page:** Overall Spend, Revenue, ROI %, Conversion Rate %, CTR, CPC, and trend analysis.  
+- **Regional Performance Page:** Region wise Spend vs Revenue, ROI %, Conversions %, Efficiency (Revenue per $ spent).  
 - **Product Performance Page:** ROI %, Conversion %, Return per $ Spent across products.  
-- **Channel Performance Page:** CTR & CPC combo chart, ROI %, Conversion %, Spend vs Revenue comparison.
+- **Channel Performance Page:** CTR & CPC, ROI %, Conversion %, Spend vs Revenue comparison across channels.
 
 
-### Dashboard Overview (Performance Summary)
+### Dashboard Overview (Overall Performance Summary)
 
 ![Dashboard Overview](2_images/overall-performance-overview.png)
+
+
+**Note:** Dashboard contains multiple pages (channel, product, and regional performances). All screenshots available in `2_images` folder.
+
+[View all dashboard pages](2_images)
 
 
 ---
@@ -85,7 +90,7 @@ The goal is to identify **high‑performing segments** and optimize spend alloca
 
 ---
 
-##  Result & Conclusion
+##  Result & Final Recommendations
 - **Result:** The dashboard provides a unified view of marketing performance across dimensions, helping identify top‑performing channels, products, and regions.
 -  
 - **Final Recommendations:**  
@@ -97,8 +102,9 @@ The goal is to identify **high‑performing segments** and optimize spend alloca
 ---
 
 ##  Future Work
+- Refinement in design and storytelling.
+- Integrate SQL for automated data refresh & reporting. 
 - Extend analysis with Power BI/Tableau for interactive visuals.  
-- Integrate SQL backend for automated data refresh.  
 - Add predictive modeling for ROI and conversion forecasting.  
 - Include campaign‑level segmentation for deeper insights.
 
