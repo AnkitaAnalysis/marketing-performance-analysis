@@ -27,8 +27,8 @@ The **goal** is to identify **high‑performing segments** and optimize spend al
 ---
 
 ##  Dataset
-- **Fields:** Date, Region, Product, Channel, Quarter, Spend, Revenue, Impressions, Clicks, Conversions, CTR, CPC, ROI, Conversion Rate (Calculated Column)
-  
+- **Fields:** Date, Region, Product, Channel, Quarter, Spend, Revenue, Impressions, Clicks, Conversions, CTR, CPC, ROI 
+- **Calculated Columns:** Conversion Rate, Profit
 - **Source:** Simulated marketing campaign dataset (Excel), generated with the help of **Microsoft Copilot** 
 
 ### Preview
